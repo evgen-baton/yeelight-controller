@@ -1,0 +1,25 @@
+{
+  "lamps": [
+    {
+      "type": "ceiling_lamp",
+      "name": "ceiling_lamp",
+      
+      "port": 55443
+      
+    },
+    {
+      "type": "stripe",
+      "name": "table_light",
+      
+      "port": 55443
+      
+    },
+    {
+      "type": "desktop_lamp",
+      "name": "desktop_lamp",
+      
+      "port": 55443
+      
+    }
+  ]
+}

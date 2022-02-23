@@ -1,0 +1,5 @@
+fastapi>=0.70.1,<0.80.0
+pydantic>=1.8.2,<2.0.0
+uvicorn>=0.16.0,<0.20.0
+requests~=2.26.0
+abstract~=2021.11.29.1
